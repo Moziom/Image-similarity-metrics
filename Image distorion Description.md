@@ -120,4 +120,10 @@ Increasing amounts of dilation performed on an image.
 
 The level of distortion dictates how many iterations of dilation were made.
 
+- Level 1: 1
 
+- Level 2: 2
+
+- Level 3: 3
+
+- Level 4: 4
